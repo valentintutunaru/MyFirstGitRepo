@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void doSomethingElse(String name){
-        System.out.println("Do something really cool with names: "+name);
+        System.out.println("Do something really cool with name: "+name);
     }
 }
