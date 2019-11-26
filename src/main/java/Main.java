@@ -7,7 +7,4 @@ public class Main {
         System.out.println("Do something cool!");
     }
 
-    public static void doSomethingElse(){
-        System.out.println("Do something really cool!");
-    }
 }
